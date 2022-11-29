@@ -9,11 +9,11 @@ How to run it ?
 <hr>
 <code>
 sudo pacman -Sy git
-<br><br>
+</code><br><code>
 git clone https://github.com/sherry65-code/archinstaller
-<br><br>
+</code><br><code>
 cd archinstaller
-<br><br>
+</code><br><code>
 python3 ./archinstaller.py
 </code>
 <hr>
