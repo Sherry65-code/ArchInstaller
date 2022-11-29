@@ -8,14 +8,16 @@ _Stage_ => **Beta**
 How to run it ?
 <hr>
 <code>
+<span>
 sudo pacman -Sy git
-</code><br><code>
-git clone https://github.com/sherry65-code/archinstaller
-</code><br><code>
+</span><br><span>
+git clone https://github.com/sherry65-span/archinstaller
+</span><br><span>
 cd archinstaller
-</code><br><code>
+</span><br><span>
 python3 ./archinstaller.py
-</code>
+</span>
+<code>
 <hr>
 <br>
 And then follow the instruction that it tells you.
